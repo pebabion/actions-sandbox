@@ -32,3 +32,4 @@ pymongo
 neo4j
 emoji
 stop-words
+pip-conflict-checker
