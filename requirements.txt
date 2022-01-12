@@ -7,7 +7,7 @@ altair==4.1.0
 h3==3.7.1
 gspread==3.6.0
 geopandas==0.8.1
-Pillow==8.2.0
+Pillow==8.3.2
 gspread-dataframe
 fastai==2.3.1
 geojson==2.5.0
